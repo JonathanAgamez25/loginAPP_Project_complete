@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">LoginApp</string>
+
+    <string name="bienvenido">Bienvenido</string>
+
+    <string name="inicio_sesion">Inicio de Sesión</string>
+
+    <string name="correo">Correo electrónico</string>
+
+    <string name="password">Contraseña</string>
+
+    <string name="btn_login">Iniciar Sesión</string>
+
+    <string name="btn_registro">Registrarse</string>
+
+    <string name="registro_usuario">Registro de Usuario</string>
+
+    <string name="nombre_completo">Nombre completo</string>
+
+    <string name="guardar_usuario">Guardar Usuario</string>
+
+    <string name="btn_usuarios">Ver usuarios JSON</string>
+    <string name="usuarios_json">Usuarios desde JSON</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="cargando_usuarios">Cargando usuarios...</string>
+
+</resources>
